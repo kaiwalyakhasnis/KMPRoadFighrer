@@ -2,7 +2,8 @@
 
 This project is an attempt to port the [Road Fighter Compose](https://github.com/kaiwalyakhasnis/Road-Fighter-Compose) game into Kotlin Multiplatform.
 Kotlin Multiplatform is leveraged in this project to share both business logic and UI components across both platforms.
-<img src="https://github.com/kaiwalyakhasnis/KMPRoadFighrer/blob/main/output.gif" width="240" height="400">
+
+<img src="https://github.com/kaiwalyakhasnis/KMPRoadFighrer/blob/main/output.gif" width="360" height="400">
 
 ## State Management with Mozilla State Library
 
